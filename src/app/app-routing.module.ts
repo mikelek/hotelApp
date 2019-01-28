@@ -1,3 +1,4 @@
+import { HomeComponent } from './home/home.component';
 import { WeddingsComponent } from './weddings/weddings.component';
 import { LifestyleComponent } from './lifestyle/lifestyle.component';
 import { CelebrationsComponent } from './celebrations/celebrations.component';
@@ -42,6 +43,10 @@ const routes: Routes = [
   {
     path: 'signup',
     component: SignupComponent
+  },
+  {
+    path: '',
+    component: HomeComponent
   }
 ];
 
