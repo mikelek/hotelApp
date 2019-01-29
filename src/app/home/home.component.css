@@ -1,0 +1,20 @@
+.container {
+  height: 100vh;
+  background: url(/assets/images/home_beach3.jpg) no-repeat;
+}
+
+.book-now-container {
+  padding: 40px 115px;
+}
+
+.book-now-button {
+  width: 170px;
+  color: white;
+  border: 1px solid white;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.header-container {
+  height: 100vh;
+}
